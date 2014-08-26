@@ -1,0 +1,4 @@
+---
+# tasks file for roles/nathan
+
+- debug: var=cake
